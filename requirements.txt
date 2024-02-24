@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly.express
+psycopg2-binary==x.x.x
+sqlalchemy==x.x.x
